@@ -1,4 +1,4 @@
-# FraudIQ
+# FraudCheck
 
 A modular real-time financial data platform for fraud detection and transaction reconciliation.
 
@@ -281,4 +281,4 @@ MIT
 
 ## Contact
 
-Ranjan Akarsh - [Instagram](https://instagram.com/ranjanakarsh)
+Sargam Kapoor - [Instagram](https://instagram.com/sargammkapoor)
